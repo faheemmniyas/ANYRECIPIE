@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="style.css" rel="stylesheet"/>
+</head>
+<body>
+   <div id="header">
+    <h1>Free Meal planeer and Receipe guide<br> 
+        and grocery list generator
+    </h1></div>
+    <br><br>
+    <div id="description">
+    <img src="https://www.shutterstock.com/shutterstock/photos/2208889407/display_1500/stock-photo-traditional-turkish-cuisine-pizza-pita-pidesi-sucuk-hummus-kebab-many-dishes-on-the-table-2208889407.jpg">
+    <br><br>
+        <h2> This website helps you to select between varieties of meal 
+            and plan your cusines for different days. 
+        </h2>
+    </div>
+    <br>
+    <br><br><br><br><br>
+    <div id="meal">
+        
+            <div class="a">Breakfast: <br><br>
+               <ol> <li><a href = "samosa.html">Samosa</a></li>
+                <li><a href = "crossiant.html">Crossiant</a></li></ol></div>
+           
+         <div class="b">Lunch: 
+            <ol>    
+            <li><a href = "bhatura.html">Chole Bhatura</a></li>
+            <li>    <a href = "">Dosa Sambar</a></li>
+            </ol>
+            </div>
+            
+           <div class="c">Dinner: <br><br>
+                <ol>
+                <li><a href = "Donner kebab.html">Doner Kebab</a><br></li>
+                <li><a href = "roll.html">Paneer Roll</a></li>
+                </ol>
+            </div>
+    </div>
+</body>
+</html>
